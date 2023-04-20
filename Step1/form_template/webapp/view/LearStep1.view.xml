@@ -9,20 +9,20 @@
 		<f:Form id="FormChange354wide"
 			editable="true">
 			<f:title>
-				<core:Title text="SAPUI5 Fiori Cafe(SFC)- UNIT 6 : SAPUI5 Layout - Part 2 Form" />
+				<core:Title text="SAPUI5 Fiori Part 2 Form" />
 			</f:title>
 			<f:layout>
 				<f:ResponsiveGridLayout
-					labelSpanXL="4"
-					labelSpanL="3"
-					labelSpanM="4"
+					labelSpanXL="1"
+					labelSpanL="1"
+					labelSpanM="2"
 					labelSpanS="12"
 					adjustLabelSpan="false"
 					emptySpanXL="0"
-					emptySpanL="4"
-					emptySpanM="0"
+					emptySpanL="0"
+					emptySpanM="1"
 					emptySpanS="0"
-					columnsXL="2"
+					columnsXL="1"
 					columnsL="1"
 					columnsM="1"
 					singleContainerFullSize="false" />
@@ -33,6 +33,17 @@
 						<f:FormElement label="User Name">
 							<f:fields>
 								<Input id="inputUserName"/>
+								<Input id="inputUserName1"/>
+								<Input id="inputUserName2"/>
+								<Input id="inputUserName3"/>
+								<Input id="inputUserName4"/>
+								<Input id="inputUserName5"/>
+								<Input id="inputUserName6"/>
+								<Input id="inputUserName7"/>
+								<Input id="inputUserName8"/>
+								<Input id="inputUserName9"/>
+								<Input id="inputUserName10"/>
+								<Input id="inputUserName11"/>
 							</f:fields>
 						</f:FormElement>
 						<f:FormElement label="User Email">

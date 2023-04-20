@@ -105,8 +105,8 @@
                     "viewType": "XML",
                     "transition": "slide",
                     "clearControlAggregation": false,
-                    "viewId": "LearStep1",
-                    "viewName": "LearStep1"
+                    "viewId": "LearStep2",
+                    "viewName": "LearStep2"
                 }
             }
         },
